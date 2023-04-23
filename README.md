@@ -1,1 +1,1 @@
-# tellevo
+# colegio
